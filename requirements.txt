@@ -1,0 +1,6 @@
+PyQt6
+PyQt6-Fluent-Widgets
+qasync
+litellm
+keyring
+httpx[socks]
